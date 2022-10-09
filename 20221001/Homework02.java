@@ -26,7 +26,7 @@ public class Homework02 {
 //        int[] par2 = {3, 4, 5, 6, 7};
 //        boolean flag = Arrays.equals(par1, par2);
 //        System.out.println("两个数组比较结果:" + (flag ? "相等" : "不相等"));
-        
+
 //        int[] arr = {10, 7, 9, 2, 4, 5, 1, 3, 6, 8};
 //                System.out.println("排序前");
 //        for (int i : arr) {
