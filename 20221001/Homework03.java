@@ -45,19 +45,19 @@ public class Homework03 {
 
 //public class Homework03 {
 //    public static void main(String[] args) {
-//        System.out.println("矩形的面积为" + culateArea(20, 30));
-//        System.out.println("三角形的面积为" + culateArea(4.5, 6.6));
-//        System.out.println("圆的面积为" + String.format("%.2f", culateArea(3)));
+//        System.out.println("矩形的面积为" + calculateArea(20, 30));
+//        System.out.println("三角形的面积为" + calculateArea(4.5, 6.6));
+//        System.out.println("圆的面积为" + String.format("%.2f", calculateArea(3)));
 //    }
 //
-//    public static int culateArea(int length, int width) {
+//    public static int calculateArea(int length, int width) {
 //        return length * width;
 //    }
 //
-//    public static double culateArea(double a, double b) {
+//    public static double calculateArea(double a, double b) {
 //        return 0.5 * a * b;
 //    }
-//    public static double culateArea(int r) {
+//    public static double calculateArea(int r) {
 //        return (Math.PI)*r*r;
 //    }
 //
